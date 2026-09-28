@@ -14,7 +14,7 @@ def calc(text:str) -> str:
 
 
 texto = st.text_area(
-    label='Pon los números aquí, uno en cada línea. Puedes poner multiplicaciones y divisiones'
+    label='Pon los números aquí, uno en cada línea. Puedes agregar multiplicaciones y divisiones'
     ,height='content'
     ,value = """1000
 100 * 3
